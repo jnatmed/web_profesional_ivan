@@ -1,0 +1,14 @@
+.nav_header {
+    position: fixed;
+    top: 0;
+    left: 0;
+    background-color: aqua;
+    display: inline;
+}
+
+.home {
+    margin-top: 16%;
+    font-size: larger;
+    background: red;
+    color: white
+}
